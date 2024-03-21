@@ -1,6 +1,8 @@
 # -*- mode: python ; coding: utf-8 -*-
 import sys 
 
+# from Dioptas... efficient !
+
 def get_libs(module_name, pristine=None, sieve=True):
     """Track new modules which were imported
     :param module_name: name of the module
