@@ -21,11 +21,6 @@ python3 eiger2xdi_converter.py
 ```
 or run it through any python interpreter.
 
-To install all required dependencies, run in the source directory:
-```
-pip install -r requirements.txt
-```
-
 ### Executable for Windows 
 
 Download the latest Release package for Windows, unpack it, and run __eiger2xdi_converter.exe__.
