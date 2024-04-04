@@ -23,11 +23,10 @@ or run it through any python interpreter.
 
 ### Executable for Windows 
 
-__Download the latest Release package for Windows ([here](https://github.com/alexisforestier/eiger2xdi_converter/releases/tag/v0.0)), unpack it, and run eiger2xdi_converter.exe.__
+__Download the latest Release package for Windows ([here](https://github.com/alexisforestier/eiger2xdi_converter/releases/tag/v0.0)), unpack it, and run *eiger2xdi_converter.exe.*__ 
 
 > [!NOTE]  
 >In case of errors occurring at launch, particularly regarding module imports, it may be necessary to install Microsoft Visual C++ Redistributable. You can find it here:
-
 >[https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 Tested on Windows 10 only.
